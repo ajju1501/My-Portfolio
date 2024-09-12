@@ -797,7 +797,7 @@ body.dark-theme{
     padding-right: calc(50% + 10px);
     text-align: right;
 }
-.timeline-dot{
+/* .timeline-dot{
     height: 21px;
     width: 21px;
     background-color: var(--first-color);
@@ -806,7 +806,7 @@ body.dark-theme{
     left: calc(50% - 8px);
     border-radius: 50%;
     top: 10px;
-}
+} */
 .timeline-date{
     font-size: 20px;
     font-weight: 800;
