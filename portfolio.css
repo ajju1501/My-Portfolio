@@ -1467,6 +1467,7 @@ body.dark-theme{
         width: 80px;
     }
     .home__line{
+	left:-10rem;
         bottom: 4rem;
         width: 80px;
         rotate: 30deg;
